@@ -1,0 +1,27 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## VS related
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+## Backup & log
+*.log
+*.vspscc
+*.vssscc
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## Others
+*.db
+*.db-shm
+*.db-wal
+*.vsidx
+*.swp
