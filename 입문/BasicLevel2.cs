@@ -6,7 +6,7 @@ public class Solution
     {
         int answer;
         answer = num1 % num2;
-
+        
         return answer;
     }
 }
